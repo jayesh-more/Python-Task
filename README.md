@@ -1,6 +1,6 @@
 # Python-Task
 ## Create a python code which can fetch following detail of system's  
-#All Installed software’s list
+##All Installed software’s list
 #Internet Speed
 #Screen resolvution
 #CPU model
